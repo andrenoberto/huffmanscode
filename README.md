@@ -1,7 +1,7 @@
 # Huffman's Algorithm
 
 This is an implementation of Huffman's Algorithm.
-This implementation using Java uses RegEx to easily find blocks of code that'll be encoded.
+This implementation in Java uses RegEx to easily find blocks of code that'll be encoded.
 
 # Instructions
 
