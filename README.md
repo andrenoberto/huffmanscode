@@ -9,14 +9,14 @@ This implementation using Java uses RegEx to easily find blocks of code that'll 
 
 - Clone this repo
 
-	git clone https://github.com/andrenoberto/huffmanscode.git
+		git clone https://github.com/andrenoberto/huffmanscode.git
 
 # Second step
 
 - Open the local clone of this repo
 - Compile Java binaries using javac and the following params
 
-	javac -d out -sourcepath src src/huffman/HuffmanCode.java
+		javac -d out -sourcepath src src/huffman/HuffmanCode.java
 
 
 # Third step
