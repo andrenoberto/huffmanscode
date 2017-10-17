@@ -1,7 +1,7 @@
 # Huffman's Algorithm
 
 This is an implementation of Huffman's Algorithm.
-This implementation in Java uses RegEx to easily find blocks of code that'll be encoded.
+This implementation in Java uses RegEx to easily find blocks of code that can be encoded.
 
 # Instructions
 
@@ -34,8 +34,8 @@ Windows:
 # Last step
 
 - Run the binaries using java and passing the correct params
-- First param is the text file you're gonna encode
-- Second param is where the encoded output file will be stored
+- First param is the path to where text file you're gonna encode is
+- Second param is the path where the encoded output file will be stored
 
 Example:
 
@@ -43,7 +43,7 @@ Example:
 
 # Just To Know
 
-You'll see that'll print the read text then the binary code and last it'll read the encoded file and print the decoded result.
+You'll see that it'll print the read text then the binary code and last but not least it'll read the encoded file and print the decoded result.
 
 If you want to check the encoded binary just check the *.bin file.
 
